@@ -36,6 +36,6 @@ The firmware is written in pure C (AVR-GCC) and relies on a robust Finite State 
 > **View Logic Flowchart:** [Click here to view the FSM Flowchart](./Firmware_Logic/Flowchart_Vending_Machine.png)
 
 ## Academic Report
-For full technical specifications, hardware pin-mapping, and testing evaluations, please read the [Full Project Report (PDF)](./Reports/Vending_Machine_Report.docx).
+For full technical specifications, hardware pin-mapping, and testing evaluations, please read the [Full Project Report (PDF)](./Reports/Vending_Machine_Report.pdf).
 
 > **Visual Documentation:** Photos of the final built device, internal wiring, and documentation from the campus exhibition can be found on **pages 25–27** of the report.
